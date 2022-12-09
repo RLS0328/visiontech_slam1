@@ -1,0 +1,184 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# Camera Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+
+# Camera calibration and distortion parameters (OpenCV)
+#EUROC 752
+#Camera.width: 752
+#Camera.height: 480
+#Camera.fx: 458.654
+#Camera.fy: 457.296
+#Camera.cx: 367.215
+#Camera.cy: 248.375
+
+#Camera.k1: -0.28340811
+#Camera.k2: 0.07395907
+#Camera.p1: 0.00019359
+#Camera.p2: 1.76187114e-05
+#Camera.k3: 0.0
+#
+  #ios 640
+#Camera.width: 752 #640
+#Camera.height: 480
+
+#Camera.fx: 458.654 #530.1466732948486
+#Camera.fy: 457.296 #527.9492395430295
+#Camera.cx: 367.215 #314.0945019820355
+#Camera.cy: 248.375 #239.45941639270833
+
+#Camera.k1: -0.28340811 #0.1253172137971379
+#Camera.k2: 0.07395907 #-0.39769217878273067
+#Camera.p1: 0.00019359 #0.00028326683377736216
+#Camera.p2: 1.76187114e-05 #6.056295756064579e-05
+
+
+#logic 1280
+#Camera.width: 1280
+#Camera.height: 720
+#Camera.fx: 938
+#Camera.fy: 939
+#Camera.cx: 657
+#Camera.cy: 342
+#Camera.k1: 0.0
+#Camera.k2: 0.0
+#Camera.p1: 0.0
+#Camera.p2: 0.0
+#Camera.k3: 0.0
+
+#logic 640
+Camera.width: 640
+Camera.height: 480
+Camera.fx: 469
+Camera.fy: 469
+Camera.cx: 320
+Camera.cy: 240
+Camera.k1: 0.0
+Camera.k2: 0.0
+Camera.p1: 0.0
+Camera.p2: 0.0
+Camera.k3: 0.0
+
+#Android 640
+#Camera.width: 640
+#Camera.height: 480
+#Camera.fx: 485.183
+#Camera.fy: 483.205
+#Camera.cx: 322.698
+#Camera.cy: 245.8688
+
+
+
+#小觅 1280 left
+#Camera.width: 1280
+#Camera.height: 720
+#Camera.fx: 690.05480957031250000
+#Camera.fy: 691.45080566406250000
+#Camera.cx: 626.25244140625000000
+#Camera.cy: 350.31054687500000000
+#Camera.k1: -0.27505111694335938
+#Camera.k2: 0.06224822998046875
+#Camera.p1: 0.00062942504882812
+#Camera.p2: 0.00143814086914062
+#Camera.k3: 0.00000000000000000
+#小觅 640 left
+#Camera.width: 640
+#Camera.height: 480
+#Camera.fx: 348.83370971679687500
+#Camera.fy: 349.76763916015625000
+#Camera.cx: 314.07852172851562500
+#Camera.cy: 237.41012573242187500
+#Camera.k1: -0.26901626586914062
+#Camera.k2: 0.05582427978515625
+#Camera.p1: -0.00033950805664062
+#Camera.p2: 0.00159072875976562
+#Camera.k3: 0.00000000000000000
+
+
+#matlab标定(2coefficients)
+#Camera.width: 1280
+#Camera.height: 720
+#Camera.fx: 707.9798
+#Camera.fy: 705.2093
+#Camera.cx: 639.011800000000
+#Camera.cy: 348.681600000000
+#Camera.k1: -0.2962
+#Camera.k2: 0.0826
+#Camera.p1: 0.0008972
+#Camera.p2: -0.0018
+#Camera.k3: 0.00000000000000000
+
+#matlab标定(3coefficients)
+#Camera.width: 1280
+#Camera.height: 720
+#Camera.fx: 707.6256
+#Camera.fy: 704.7636
+#Camera.cx: 629.064400000000
+#Camera.cy: 349.253800000000
+#Camera.k1: -0.3357
+#Camera.k2: 0.1523
+#Camera.p1: 0.0012
+#Camera.p2: 0.00081190
+#Camera.k3: -0.0394
+
+# Camera frames per second
+Camera.fps: 15.0 #30.0
+
+# IR projector baseline times fx (aprox.)
+Camera.bf: 40.0
+
+# Color order of the images (0: BGR, 1: RGB. It is ignored if images are grayscale)
+Camera.RGB: 1
+
+# Close/Far threshold. Baseline times.
+ThDepth: 40.0
+
+# Deptmap values factor
+DepthMapFactor: 1.0
+
+#--------------------------------------------------------------------------------------------
+# ORB Parameters
+#--------------------------------------------------------------------------------------------
+
+# ORB Extractor: Number of features per image
+ORBextractor.nFeatures: 2000
+
+# ORB Extractor: Scale factor between levels in the scale pyramid
+ORBextractor.scaleFactor: 1.2
+
+# ORB Extractor: Number of levels in the scale pyramid
+ORBextractor.nLevels: 8
+
+# ORB Extractor: Fast threshold
+# Image is divided in a grid. At each cell FAST are extracted imposing a minimum response.
+# Firstly we impose iniThFAST. If no corners are detected we impose a lower value minThFAST
+# You can lower these values if your images have low contrast
+ORBextractor.iniThFAST: 20
+
+ORBextractor.minThFAST: 7
+
+#--------------------------------------------------------------------------------------------
+# Viewer Parameters
+#--------------------------------------------------------------------------------------------
+Viewer.KeyFrameSize: 0.05
+Viewer.KeyFrameLineWidth: 1
+Viewer.GraphLineWidth: 0.9
+Viewer.PointSize:2
+Viewer.CameraSize: 0.08
+Viewer.CameraLineWidth: 3
+Viewer.ViewpointX: 0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
+Viewer.ViewpointF: 485
+
+#--------------------------------------------------------------------------------------------
+# Others
+#--------------------------------------------------------------------------------------------
+#YAML_PATH: ./Examples/AR/setting
+YAML_PATH: /home/lee/桌面/visiontech_slam1/Examples/AR/setting/
+back_red: 1
+back_green: 0
+back_blue: 0
+near: 0.001
+far: 1000

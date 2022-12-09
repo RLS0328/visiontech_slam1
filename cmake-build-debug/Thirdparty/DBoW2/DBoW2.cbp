@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DBoW2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Thirdparty\;CMake Files\Thirdparty\DBoW2\;CMake Files\Thirdparty\g2o\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\;CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBoW2">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/lib/libDBoW2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 DBoW2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBoW2/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/lib/libDBoW2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 DBoW2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-debug/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/BowVector.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/BowVector.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FORB.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FORB.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FeatureVector.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/ScoringObject.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Random.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Random.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Timestamp.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Timestamp.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\DBoW2\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\DBoW2\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/config.h.in">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/config.h.in">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-targets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+add_subdirectory(msf_core)
+add_subdirectory(msf_timing)
+add_subdirectory(msf_updates)

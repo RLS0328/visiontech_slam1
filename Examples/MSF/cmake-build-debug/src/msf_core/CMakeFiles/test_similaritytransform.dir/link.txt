@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-deprecated -Wall -Wextra -Wno-unused-parameter -std=c++0x -g    -rdynamic CMakeFiles/test_similaritytransform.dir/test/test_similaritytransform.cc.o  -o test_similaritytransform libsimilaritytransform.a 

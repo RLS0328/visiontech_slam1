@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimilaritytransform.a  CMakeFiles/similaritytransform.dir/similaritytransform.cc.o
+/usr/bin/ranlib libsimilaritytransform.a

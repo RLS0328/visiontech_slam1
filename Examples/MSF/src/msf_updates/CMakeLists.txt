@@ -1,0 +1,7 @@
+add_library(pose_distorter msf_distort/PoseDistorter.cc)
+
+add_executable(pose_position_msf pose_position_msf/pose_msf_test.cpp)
+target_link_libraries(pose_position_msf msf_core msf_timing pose_distorter ${PCL_LIBRARIES})
+
+add_executable(pose_position_msf_lins_test pose_position_msf/pose_msf_lins_test.cpp)
+target_link_libraries(pose_position_msf_lins_test msf_core msf_timing pose_distorter ${PCL_LIBRARIES})

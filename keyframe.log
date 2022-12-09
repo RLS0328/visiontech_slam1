@@ -1,0 +1,6 @@
+SetBadFlag id2
+connection id0	connection id1	connection id6	connection id7	connection id3	connection id4	connection id5	
+SetBadFlag End id2
+SetBadFlag id4
+connection id0	connection id1	connection id6	connection id7	connection id3	connection id5	connection id8	
+SetBadFlag End id4

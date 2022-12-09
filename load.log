@@ -1,0 +1,54 @@
+kf id0
+connection id17
+con id2	con id6	con id9	con id5	con id13	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id2
+parent id0
+connection id17
+con id0	con id6	con id9	con id5	con id13	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id6
+parent id5
+connection id17
+con id0	con id2	con id9	con id5	con id13	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id9
+parent id2
+connection id18
+con id0	con id2	con id6	con id5	con id3	con id13	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id5
+parent id0
+connection id17
+con id0	con id2	con id6	con id9	con id13	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id13
+parent id10
+connection id18
+con id0	con id2	con id6	con id9	con id5	con id4	con id12	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id12
+parent id10
+connection id17
+con id0	con id2	con id6	con id9	con id5	con id13	con id11	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id11
+parent id10
+connection id19
+con id0	con id2	con id6	con id9	con id5	con id4	con id3	con id13	con id12	con id10	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id10
+parent id0
+connection id18
+con id0	con id2	con id6	con id9	con id5	con id4	con id13	con id12	con id11	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id17
+parent id0
+connection id19
+con id0	con id2	con id6	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id20	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id20
+parent id0
+connection id20
+con id0	con id2	con id6	con id8	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id17	con id18	con id25	con id22	con id21	con id19	con id23	con id24	kf id18
+parent id17
+connection id20
+con id0	con id2	con id6	con id8	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id17	con id20	con id25	con id22	con id21	con id19	con id23	con id24	kf id25
+parent id24
+connection id22
+con id0	con id1	con id2	con id6	con id7	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id22	con id21	con id19	con id23	con id24	kf id22
+parent id21
+connection id21
+con id0	con id2	con id6	con id8	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id25	con id21	con id19	con id23	con id24	kf id21
+parent id0
+connection id20
+con id0	con id2	con id6	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id25	con id22	con id19	con id23	con id24	kf id19
+parent id0
+connection id20
+con id0	con id2	con id6	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id25	con id22	con id21	con id23	con id24	kf id23
+parent id22
+connection id21
+con id0	con id2	con id6	con id7	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id24	kf id24
+parent id0
+connection id21
+con id0	con id2	con id6	con id7	con id9	con id5	con id4	con id3	con id13	con id12	con id11	con id10	con id14	con id17	con id20	con id18	con id25	con id22	con id21	con id19	con id23	

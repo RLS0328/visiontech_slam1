@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmsf_core.a  CMakeFiles/msf_core.dir/msf_tools.cc.o CMakeFiles/msf_core.dir/falsecolor.cc.o CMakeFiles/msf_core.dir/gps_conversion.cc.o CMakeFiles/msf_core.dir/config.cpp.o
+/usr/bin/ranlib libmsf_core.a

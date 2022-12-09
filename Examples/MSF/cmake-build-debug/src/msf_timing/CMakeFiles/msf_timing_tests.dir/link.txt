@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-deprecated -Wall -Wextra -Wno-unused-parameter -std=c++0x -g    -rdynamic CMakeFiles/msf_timing_tests.dir/test/testMSFTiming.cc.o  -o msf_timing_tests libmsf_timing.a -Wl,-Bstatic -lgtest -lgtest_main -Wl,-Bdynamic -lpthread 

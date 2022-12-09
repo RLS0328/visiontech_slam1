@@ -1,0 +1,100 @@
+%YAML:1.0
+
+rawbuffer: 1
+ekfbuffer: 1
+
+imu_data_txt: /home/yyh/visiontech_slam1_MSF/Examples/MSF/dataset/pose_msf/eye_imu_new_2_yuan.txt
+vicon_data_txt: /home/yyh/visiontech_slam1_MSF/Examples/MSF/dataset/pose_msf/eye_vicon_yuan.txt
+###########imu_2--vicon_2.2
+## ETHZ_MSF
+###########
+
+## Config for IMU
+core/core_fixed_bias: false
+
+##yyh
+#core/core_noise_acc: 0.008
+#core/core_noise_accbias: 0.012
+#core/core_noise_gyr: 0.00068
+#core/core_noise_gyrbias: 0.000076
+
+##eye 小觅
+core/core_noise_acc: 2.0957575592325611e-02 #0.005 #2e-3
+core/core_noise_accbias: 5.1049856561090877e-04 #0.010  #5e-03
+core/core_noise_gyr: 1.9619117704644819e-03 #0.0003  #1.7e-4
+core/core_noise_gyrbias: 3.4132385191755280e-05 #0.00004  #2e-5
+
+##### INS-D
+## Gyro noise density: 0.004 deg/[sec sqrt(Hz) ]    0.000069813 rad/[sec sqrt(Hz)]
+## Gyro stability: 1 deg/hr                         0.000004848 rad/sec
+###
+## Accel Noise Density: 0.025 mg/sqrt(Hz)           0.00024525 m/s^2/sqrt(Hz)
+## Acc stability: 0.005 mg                          0.000049 m/s^2
+
+
+#core/core_noise_acc: 0.002
+#core/core_noise_accbias: 0.00005
+#core/core_noise_gyr: 0.0008
+#core/core_noise_gyrbias: 0.00005
+
+
+##### ADIS 16490
+## Gyro ARW   0.09 deg/sqrt(hr)
+## Gyro Stab  1.8 deg/hr
+
+## Acc ARW
+## Acc stab   3.6 ug
+
+#core/core_noise_acc: 0.002
+#core/core_noise_accbias: 0.00005
+#core/core_noise_gyr: 0.0008
+#core/core_noise_gyrbias: 0.00005
+
+###### ETHZ VICON DATASET
+#core/core_noise_acc: 0.083
+#core/core_noise_accbias: 0.0083
+#core/core_noise_gyr: 0.0013
+#core/core_noise_gyrbias: 0.00013
+
+## Config of msf_app
+msf_app/pose_sensor/pose_noise_scale: 0.0
+msf_app/pose_sensor/pose_noise_p_wv: 0.0
+msf_app/pose_sensor/pose_noise_q_wv: 0.0
+msf_app/pose_sensor/pose_noise_q_ic: 0.0
+msf_app/pose_sensor/pose_noise_p_ic: 0.0
+msf_app/pose_sensor/position_noise_p_ip: 0.0
+msf_app/init/q_ic/w: 0.0028832 #0.712301  [ 0.9999875, 0.0021644, 0.0034724, -0.0028832 ]
+msf_app/init/q_ic/x: 0.9999875 #-0.00770718[ x: -3.1358412, y: -0.0069572, z: 0.0043088 ]
+msf_app/init/q_ic/y: 0.0021644 #0.0104993 [ -0.0716183, -0.3550849, 0.0244693, 0.9317654 ]
+msf_app/init/q_ic/z: 0.0034724 #0.701753 [ x: -0.2017279, y: -0.7184343, z: 0.1284824 ]
+msf_app/init/p_ic/x: -0.04777362000000000108 #-0.0216401454975
+msf_app/init/p_ic/y: -0.00223730999999999991 #-0.064676986768
+msf_app/init/p_ic/z: -0.00160071000000000008 #0.00981073058949
+msf_app/init/p_ip/x: 0.0
+msf_app/init/p_ip/y: 0.0
+msf_app/init/p_ip/z: 0.0
+
+## Config for pose sensor handler
+pose_sensor/pose_fixed_scale: true
+pose_sensor/pose_fixed_p_ic: true
+pose_sensor/pose_fixed_q_ic: true
+pose_sensor/pose_fixed_p_wv: true
+pose_sensor/pose_fixed_q_wv: true
+
+pose_sensor/pose_delay: 0.0
+pose_sensor/pose_noise_meas_p: 0.05
+pose_sensor/pose_noise_meas_q: 0.0005
+
+pose_sensor/pose_absolute_measurements: true
+pose_sensor/pose_measurement_world_sensor: true
+pose_sensor/pose_use_fixed_covariance: true
+pose_sensor/pose_measurement_minimum_dt: 0.033
+
+## Config for position sensor handler
+position_sensor/pose_fixed_p_ip: true
+
+position_sensor/position_noise_meas_p: 0.05
+position_sensor/pose_delay: 0.0
+
+position_sensor/position_absolute_measurements: true
+position_sensor/position_use_fixed_covariance: true

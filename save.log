@@ -1,0 +1,71 @@
+kf id0
+connection size17
+connection id2	connection id6	connection id9	connection id5	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id2
+parent id0
+connection size17
+connection id0	connection id6	connection id9	connection id5	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id6
+parent id5
+connection size17
+connection id0	connection id2	connection id9	connection id5	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id9
+parent id2
+connection size18
+connection id0	connection id2	connection id6	connection id5	connection id3	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id5
+parent id0
+connection size17
+connection id0	connection id2	connection id6	connection id9	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id13
+parent id10
+connection size18
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id12	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id12
+parent id10
+connection size17
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id13	connection id11	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id11
+parent id10
+connection size19
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id10	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id10
+parent id0
+connection size18
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id13	connection id12	connection id11	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id17
+parent id0
+connection size19
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id20
+parent id0
+connection size20
+connection id0	connection id2	connection id6	connection id8	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id17	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id18
+parent id17
+connection size20
+connection id0	connection id2	connection id6	connection id8	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id17	connection id20	connection id25	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id25
+parent id24
+connection size22
+connection id0	connection id1	connection id2	connection id6	connection id7	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id22	connection id21	connection id19	connection id23	connection id24	
+kf id22
+parent id21
+connection size21
+connection id0	connection id2	connection id6	connection id8	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id25	connection id21	connection id19	connection id23	connection id24	
+kf id21
+parent id0
+connection size20
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id25	connection id22	connection id19	connection id23	connection id24	
+kf id19
+parent id0
+connection size20
+connection id0	connection id2	connection id6	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id23	connection id24	
+kf id23
+parent id22
+connection size21
+connection id0	connection id2	connection id6	connection id7	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id24	
+kf id24
+parent id0
+connection size21
+connection id0	connection id2	connection id6	connection id7	connection id9	connection id5	connection id4	connection id3	connection id13	connection id12	connection id11	connection id10	connection id14	connection id17	connection id20	connection id18	connection id25	connection id22	connection id21	connection id19	connection id23	

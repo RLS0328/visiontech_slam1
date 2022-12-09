@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wanghao/gzh/mono_ar_slam_ok_集成/visiontech_slam1/Thirdparty/g2o/g2o/stuff/os_specific.c
+os_specific.h
+/home/wanghao/gzh/mono_ar_slam_ok_集成/visiontech_slam1/Thirdparty/g2o/g2o/stuff/os_specific.h
+
+/home/wanghao/gzh/mono_ar_slam_ok_集成/visiontech_slam1/Thirdparty/g2o/g2o/stuff/os_specific.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+sys/time.h
+-
+sys/time.h
+-
+

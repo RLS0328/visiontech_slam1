@@ -1,0 +1,45 @@
+SetBadFlag id3
+connection id1	connection id2	connection id0	connection id4	connection id5	
+SetBadFlag End id3
+SetBadFlag id4
+connection id1	connection id2	connection id0	connection id6	connection id5	
+SetBadFlag End id4
+SetBadFlag id6
+connection id1	connection id2	connection id0	connection id7	connection id5	connection id8	
+SetBadFlag End id6
+SetBadFlag id7
+connection id1	connection id2	connection id0	connection id9	connection id10	connection id5	connection id8	
+SetBadFlag End id7
+SetBadFlag id8
+connection id1	connection id2	connection id0	connection id9	connection id10	connection id5	connection id13	connection id11	connection id12	
+SetBadFlag End id8
+SetBadFlag id5
+connection id1	connection id2	connection id0	connection id9	connection id10	connection id13	connection id11	connection id12	connection id14	
+SetBadFlag End id5
+SetBadFlag id12
+connection id1	connection id2	connection id15	connection id16	connection id17	connection id18	connection id19	connection id0	connection id7	connection id9	connection id10	connection id13	connection id11	connection id14	
+SetBadFlag End id12
+SetBadFlag id13
+connection id1	connection id2	connection id15	connection id16	connection id17	connection id20	connection id18	connection id19	connection id21	connection id0	connection id9	connection id10	connection id22	connection id11	connection id14	
+SetBadFlag End id13
+SetBadFlag id9
+connection id1	connection id2	connection id15	connection id16	connection id17	connection id20	connection id18	connection id19	connection id21	connection id0	connection id10	connection id22	connection id23	connection id24	connection id11	connection id14	
+SetBadFlag End id9
+SetBadFlag id15
+connection id1	connection id2	connection id16	connection id17	connection id20	connection id18	connection id19	connection id21	connection id0	connection id10	connection id5	connection id8	connection id22	connection id23	connection id24	connection id25	connection id11	connection id14	
+SetBadFlag End id15
+SetBadFlag id22
+connection id1	connection id2	connection id16	connection id17	connection id20	connection id18	connection id19	connection id21	connection id0	connection id7	connection id10	connection id5	connection id8	connection id23	connection id24	connection id28	connection id25	connection id26	connection id27	connection id11	connection id12	connection id14	
+SetBadFlag End id22
+SetBadFlag id11
+connection id1	connection id2	connection id16	connection id17	connection id20	connection id18	connection id19	connection id21	connection id0	connection id7	connection id10	connection id23	connection id24	connection id28	connection id25	connection id26	connection id27	connection id29	connection id14	
+SetBadFlag End id11
+SetBadFlag id21
+connection id1	connection id2	connection id16	connection id17	connection id20	connection id18	connection id19	connection id0	connection id10	connection id5	connection id8	connection id23	connection id24	connection id28	connection id25	connection id26	connection id27	connection id29	connection id30	connection id31	connection id12	connection id14	
+SetBadFlag End id21
+SetBadFlag id16
+connection id1	connection id2	connection id17	connection id20	connection id18	connection id19	connection id0	connection id10	connection id5	connection id8	connection id23	connection id24	connection id28	connection id25	connection id26	connection id27	connection id29	connection id30	connection id31	connection id32	connection id14	
+SetBadFlag End id16
+SetBadFlag id20
+connection id1	connection id2	connection id17	connection id18	connection id19	connection id0	connection id10	connection id23	connection id24	connection id28	connection id25	connection id26	connection id27	connection id29	connection id30	connection id31	connection id33	connection id32	connection id12	connection id14	
+SetBadFlag End id20

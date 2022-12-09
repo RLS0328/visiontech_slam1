@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ethzasl_msf_noros"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;CMake Files\..\;CMake Files\..\yaml-cpp-yaml-cpp-0.5.3\;CMake Files\..\yaml-cpp-yaml-cpp-0.5.3\build\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\usr\;CMake Files\..\..\..\usr\share\;CMake Files\..\..\..\usr\share\pcl-1.7\;CMake Files\..\..\..\usr\lib\;CMake Files\..\..\..\usr\lib\vtk-5.8\;CMake Files\..\..\..\usr\lib\vtk-5.8\CMake\;CMake Files\src\;CMake Files\src\msf_core\;CMake Files\src\msf_timing\;CMake Files\src\msf_updates\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_similaritytransform">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/test_similaritytransform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 test_similaritytransform"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_similaritytransform/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/test_similaritytransform" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 test_similaritytransform/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="similaritytransform">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/libsimilaritytransform.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 similaritytransform"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="similaritytransform/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/libsimilaritytransform.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 similaritytransform/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_core">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/libmsf_core.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 msf_core"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_core/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/libmsf_core.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 msf_core/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_core/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_timing_tests">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/msf_timing_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 msf_timing_tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_timing_tests/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/msf_timing_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 msf_timing_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_timing">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/libmsf_timing.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 msf_timing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="msf_timing/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/libmsf_timing.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 msf_timing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_timing/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_position_msf_lins_test">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/pose_position_msf_lins_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_position_msf_lins_test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_position_msf_lins_test/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/pose_position_msf_lins_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_position_msf_lins_test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_position_msf">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/pose_position_msf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_position_msf"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_position_msf/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/pose_position_msf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_position_msf/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_distorter">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/libpose_distorter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_distorter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pose_distorter/fast">
+				<Option output="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/libpose_distorter.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DEIGEN_USE_NEW_STDVECTOR"/>
+					<Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET"/>
+					<Add option="-DFLANN_STATIC"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates"/>
+					<Add directory="/usr/include/vtk-5.8"/>
+					<Add directory="/home/yyh/ethzasl_msf_noros-no_ros/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/home/yyh/yaml-cpp-yaml-cpp-0.5.3/include"/>
+					<Add directory="/usr/include/pcl-1.7"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/include/ni"/>
+					<Add directory="/usr/include/openni2"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 pose_distorter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/yyh/ethzasl_msf_noros-no_ros/cmake-build-debug/src/msf_updates/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/config.cpp">
+			<Option target="msf_core"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/falsecolor.cc">
+			<Option target="msf_core"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/gps_conversion.cc">
+			<Option target="msf_core"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/msf_tools.cc">
+			<Option target="msf_core"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/similaritytransform.cc">
+			<Option target="similaritytransform"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/test/test_similaritytransform.cc">
+			<Option target="test_similaritytransform"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing/Timer.cc">
+			<Option target="msf_timing"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing/test/testMSFTiming.cc">
+			<Option target="msf_timing_tests"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates/msf_distort/PoseDistorter.cc">
+			<Option target="pose_distorter"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates/pose_position_msf/pose_msf_lins_test.cpp">
+			<Option target="pose_position_msf_lins_test"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates/pose_position_msf/pose_msf_test.cpp">
+			<Option target="pose_position_msf"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/cmake_modules/FindGlog.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../yaml-cpp-yaml-cpp-0.5.3/build/yaml-cpp-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\yaml-cpp-yaml-cpp-0.5.3\build\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../yaml-cpp-yaml-cpp-0.5.3/build/yaml-cpp-config.cmake">
+			<Option virtualFolder="CMake Files\..\yaml-cpp-yaml-cpp-0.5.3\build\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../yaml-cpp-yaml-cpp-0.5.3/build/yaml-cpp-targets.cmake">
+			<Option virtualFolder="CMake Files\..\yaml-cpp-yaml-cpp-0.5.3\build\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/share/pcl-1.7/PCLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\pcl-1.7\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/share/pcl-1.7/PCLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\share\pcl-1.7\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/UseVTK.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/UseVTK.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/UseVTK.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/../../../usr/lib/vtk-5.8/CMake/vtkMakeInstantiator.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\usr\lib\vtk-5.8\CMake\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_core/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\msf_core\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\msf_timing\"/>
+		</Unit>
+		<Unit filename="/home/yyh/ethzasl_msf_noros-no_ros/src/msf_updates/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\msf_updates\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

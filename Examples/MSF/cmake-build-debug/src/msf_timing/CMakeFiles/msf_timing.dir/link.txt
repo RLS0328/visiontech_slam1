@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmsf_timing.a  CMakeFiles/msf_timing.dir/Timer.cc.o
+/usr/bin/ranlib libmsf_timing.a

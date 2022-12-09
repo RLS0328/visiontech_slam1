@@ -1,0 +1,13 @@
+%YAML:1.0
+
+osg_file: "/007 - Squirtle/Squirtle.obj"
+
+px: 0.06
+py: 0.0
+pz: -0.10
+
+ax: 0.0
+ay: 0.0
+az: 3.14
+
+scale: 0.01

@@ -1,0 +1,19 @@
+%YAML:1.0
+
+#osg_file: "/001 - Bulbasaur/Bulbasaur.obj"
+#osg_file: "/katongwawa1/katongxiaoren1.osg"
+#osg_file: "/WANG's ive/L12/earth.ive"
+osg_file: "/home/lee/Data/OpenSceneGraph-Data-3.0.0/katongwawa1/katongxiaoren1.osg"
+#osg_file: "/home/zjwang/桌面/SLAM/donglang4.ive"
+
+#osg_file: "10.ive"
+
+px: 0.16
+py: 0.07
+pz: -0.41
+
+ax: 1.57
+ay: 0.0
+az: 3.14
+
+scale: 1.0

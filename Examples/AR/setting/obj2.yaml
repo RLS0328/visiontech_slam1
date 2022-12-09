@@ -1,0 +1,13 @@
+%YAML:1.0
+
+osg_file: "/004 - Charmander/Charmander.obj"
+
+px: 0.02
+py: 0.0
+pz: -0.30
+
+ax: 0.0
+ay: 0.0
+az: 3.14
+
+scale: 0.01

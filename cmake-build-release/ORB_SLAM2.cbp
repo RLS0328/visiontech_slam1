@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ORB_SLAM2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Thirdparty\;CMake Files\Thirdparty\DBoW2\;CMake Files\Thirdparty\g2o\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\;CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mono">
+				<Option output="/home/lee/桌面/visiontech_slam1/Examples/AR/mono" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 mono"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mono/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Examples/AR/mono" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 mono/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mono_ar">
+				<Option output="/home/lee/桌面/visiontech_slam1/Examples/AR/mono_ar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 mono_ar"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mono_ar/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Examples/AR/mono_ar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 mono_ar/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ORB_SLAM2">
+				<Option output="/home/lee/桌面/visiontech_slam1/lib/libORB_SLAM2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 ORB_SLAM2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ORB_SLAM2/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/lib/libORB_SLAM2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 ORB_SLAM2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_vocabulary">
+				<Option output="/home/lee/桌面/visiontech_slam1/Vocabulary/bin_vocabulary" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 bin_vocabulary"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bin_vocabulary/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Vocabulary/bin_vocabulary" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/Examples/AR"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/include"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/lib/cmake/Pangolin/../../../include"/>
+					<Add directory="/home/lee/3dParty/OpenSceneGraph-OpenSceneGraph-3.4.0/include"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Examples/AR/include"/>
+					<Add directory="/home/lee/MSF/src/msf_updates/pose_position_msf"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 bin_vocabulary/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBoW2">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/lib/libDBoW2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 DBoW2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DBoW2/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/lib/libDBoW2.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 DBoW2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/DBoW2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="g2o">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/lib/libg2o.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add option="-DUNIX"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/core"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/types"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/stuff"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 g2o"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="g2o/fast">
+				<Option output="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/lib/libg2o.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DCOMPILEDWITHC11"/>
+					<Add option="-DWITH_OPENCV"/>
+					<Add option="-DUNIX"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/core"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/types"/>
+					<Add directory="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/stuff"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 g2o/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/lee/桌面/visiontech_slam1/cmake-build-release/Thirdparty/g2o/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/AR.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/CameraManipulator.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/Loader.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/Obj.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/mono.cc">
+			<Option target="mono"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Examples/AR/src/mono_ar.cc">
+			<Option target="mono_ar"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/BowVector.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/BowVector.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FORB.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FORB.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/FeatureVector.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DBoW2/ScoringObject.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Random.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Random.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Timestamp.cpp">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/DUtils/Timestamp.h">
+			<Option target="DBoW2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_binary_edge.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_binary_edge.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_edge.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_multi_edge.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_multi_edge.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_unary_edge.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_unary_edge.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_vertex.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/base_vertex.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/batch_stats.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/batch_stats.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/block_solver.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/block_solver.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/cache.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/cache.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/creators.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/estimate_propagator.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/estimate_propagator.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/factory.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/factory.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_dijkstra.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_graph.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_graph.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/hyper_graph_action.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/jacobian_workspace.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/linear_solver.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/matrix_structure.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/matrix_structure.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/openmp_mutex.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimizable_graph.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimizable_graph.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_property.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/parameter.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/parameter.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/parameter_container.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/parameter_container.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel_factory.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/robust_kernel_impl.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/solver.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/solver.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/sparse_block_matrix.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/sparse_block_matrix.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/core/sparse_optimizer.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/color_macros.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/macros.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/misc.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/os_specific.c">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/os_specific.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/property.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/property.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/string_tools.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/string_tools.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/timeutil.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/stuff/timeutil.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/se3_ops.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/se3_ops.hpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/se3quat.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_sba.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_sba.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h">
+			<Option target="g2o"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Vocabulary/bin_vocabulary.cc">
+			<Option target="bin_vocabulary"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Converter.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Frame.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/FrameDrawer.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Initializer.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/KeyFrame.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/KeyFrameDatabase.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/LocalMapping.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/LoopClosing.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Map.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/MapDrawer.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/MapPoint.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/MapSaveLoad.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/ORBextractor.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/ORBmatcher.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Optimizer.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Pickhandle.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/PnPsolver.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Sim3Solver.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/System.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Tracking.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/src/Viewer.cc">
+			<Option target="ORB_SLAM2"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\DBoW2\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/DBoW2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\DBoW2\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/config.h.in">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/Thirdparty/g2o/config.h.in">
+			<Option virtualFolder="CMake Files\Thirdparty\g2o\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/Pangolin/PangolinTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\Pangolin\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/../../../../usr/local/lib/cmake/mynteyed/mynteyed-targets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\mynteyed\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+		<Unit filename="/home/lee/桌面/visiontech_slam1/cmake_modules/FindEigen3.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

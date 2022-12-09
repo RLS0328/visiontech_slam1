@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpose_distorter.a  CMakeFiles/pose_distorter.dir/msf_distort/PoseDistorter.cc.o
+/usr/bin/ranlib libpose_distorter.a

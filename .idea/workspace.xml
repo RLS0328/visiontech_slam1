@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Examples/AR/setting/Conf.yaml" line="86" mnemonic="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ORB_SLAM2" targetName="mono" />
+      <config projectName="ORB_SLAM2" targetName="DBoW2" />
+      <config projectName="ORB_SLAM2" targetName="bin_vocabulary" />
+      <config projectName="ORB_SLAM2" targetName="mono_ar" />
+      <config projectName="ORB_SLAM2" targetName="g2o" />
+      <config projectName="ORB_SLAM2" targetName="ORB_SLAM2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" BUILD_OPTIONS="-j 4" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7853068-66ae-482e-b38c-76501d9edf90" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/TODO" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/CMakeError.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/CTestTestfile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/cmake_install.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/ethzasl_msf_noros.cbp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/CMakeFiles/progress.marks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/CTestTestfile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/cmake_install.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/CXX.includecache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/cmake_clean_target.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/config.cpp.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/depend.internal" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/falsecolor.cc.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/gps_conversion.cc.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/msf_tools.cc.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/msf_core.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/progress.marks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/cmake_clean_target.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/similaritytransform.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CMakeFiles/test_similaritytransform.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/CTestTestfile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/cmake_install.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_core/libmsf_core.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/CXX.includecache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/Timer.cc.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/cmake_clean_target.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/depend.internal" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/msf_timing_tests.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CMakeFiles/progress.marks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/CTestTestfile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/cmake_install.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_timing/libmsf_timing.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/CXX.includecache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/cmake_clean_target.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/depend.internal" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/msf_distort/PoseDistorter.cc.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_distorter.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/CXX.includecache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/depend.internal" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/pose_position_msf/pose_msf_test.cpp.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/DependInfo.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/build.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/cmake_clean.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/depend.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/flags.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/link.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/pose_position_msf_lins_test.dir/progress.make" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CMakeFiles/progress.marks" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/CTestTestfile.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/Makefile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/cmake_install.cmake" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/libpose_distorter.a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/cmake-build-debug/src/msf_updates/pose_position_msf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu_1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu_new.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu_new_2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu_new_2_yuan.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_imu_time_1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_vicon_1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/eye_vicon_yuan.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/fast_turn/imu.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/fast_turn/imu_spc_sep.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/fast_turn/loam_pose_spc_sep.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/fast_turn/vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_100.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_half.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_msf.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_pose.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_pose.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/imu_yuan.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/log.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/truth.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_2.2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_cv.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_half.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_msf.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_w.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/vicon_yuan.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/dataset/pose_msf/无标题文档" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/ekf_pose_eye_gyr.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/ekf_pose_eye_vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/ekf_pose_eye_vicon_2.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/ekf_pose_eye_vicon_3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/ekf_pose_ios_vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/imu.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/config.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/eigen_conversions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/eigen_utils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/falsecolor.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/gps_conversion.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/implementation/calcQCore.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/implementation/msf_core_inl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/implementation/msf_measurement_inl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/implementation/msf_sensormanager_inl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/implementation/msf_state_inl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_IMUHandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_IMUHandler_NOROS.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_checkFuzzyTracking.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_core.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_fwds.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_macros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_measurement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_sensorhandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_sensormanager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_sortedContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_state.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_statevisitor.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_tmp.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_tools.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_types.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/msf_typetraits.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/similaritytransform.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/sincos.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/static_ordering_assertions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/testing_entrypoint.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_core/testing_predicates.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/DoubleArrayStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/DoubleMatrixStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/ExtEkf.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/ExtState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Header.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Imu.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/NavSatFix.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/NavSatStatus.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Odometry.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Point.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/PointStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/PointWithCovarianceStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Pose.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/PoseStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/PoseWithCovariance.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/PoseWithCovarianceStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Quaternion.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Transform.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/TransformStamped.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Twist.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/TwistWithCovariance.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/Vector3.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_struct/structs.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_timing/Timer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/PoseDistorter.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pose_sensor_handler/implementation/pose_sensorhandler.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pose_sensor_handler/pose_measurement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pose_sensor_handler/pose_sensorhandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/position_sensor_handler/implementation/position_sensorhandler.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/position_sensor_handler/position_measurement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/position_sensor_handler/position_sensorhandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pressure_sensor_handler/implementation/pressure_sensorhandler.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pressure_sensor_handler/pressure_measurement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/pressure_sensor_handler/pressure_sensorhandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/spherical_position_sensor/implementation/spherical_sensorhandler.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/spherical_position_sensor/spherical_measurement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/spherical_position_sensor/spherical_sensorhandler.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/msf_updates/static_ordering_assertions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/AR.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/cam_utils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/camera.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/counter.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/cv_painter.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/rate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/include/mynteye/utils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/mono" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/mono_ar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/config.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/falsecolor.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/gps_conversion.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/msf_tools.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/similaritytransform.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/test/test_similaritytransform.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/test/test_staticstatelist.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_core/test/test_tmptestbed.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_timing/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_timing/Timer.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_timing/test/testMSFTiming.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/msf_distort/PoseDistorter.cc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/msf_statedef.hpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/my_types.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/pose_msf_lins_test.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/pose_msf_test.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/pose_msf_test_yuan.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/src/msf_updates/pose_position_msf/pose_sensormanager_noros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Examples/MSF/vicon.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libMSF.so" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/include/AR.h" afterPath="$PROJECT_DIR$/Examples/AR/include/AR.h" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/map/map.bin" afterPath="$PROJECT_DIR$/Examples/AR/map/map.bin" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/map/map0.bin" afterPath="$PROJECT_DIR$/Examples/AR/map/map0.bin" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/mono" afterPath="$PROJECT_DIR$/Examples/AR/mono" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/mono_ar" afterPath="$PROJECT_DIR$/Examples/AR/mono_ar" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/setting/Conf.yaml" afterPath="$PROJECT_DIR$/Examples/AR/setting/Conf.yaml" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/src/AR.cc" afterPath="$PROJECT_DIR$/Examples/AR/src/AR.cc" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/src/mono.cc" afterPath="$PROJECT_DIR$/Examples/AR/src/mono.cc" />
+      <change beforePath="$PROJECT_DIR$/Examples/AR/src/mono_ar.cc" afterPath="$PROJECT_DIR$/Examples/AR/src/mono_ar.cc" />
+      <change beforePath="$PROJECT_DIR$/TUM3.yaml" afterPath="$PROJECT_DIR$/TUM3.yaml" />
+      <change beforePath="$PROJECT_DIR$/Thirdparty/DBoW2/lib/libDBoW2.so" afterPath="$PROJECT_DIR$/Thirdparty/DBoW2/lib/libDBoW2.so" />
+      <change beforePath="$PROJECT_DIR$/Thirdparty/g2o/lib/libg2o.so" afterPath="$PROJECT_DIR$/Thirdparty/g2o/lib/libg2o.so" />
+      <change beforePath="$PROJECT_DIR$/Vocabulary/bin_vocabulary" afterPath="$PROJECT_DIR$/Vocabulary/bin_vocabulary" />
+      <change beforePath="$PROJECT_DIR$/build.sh" afterPath="$PROJECT_DIR$/build.sh" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeCache.txt" afterPath="$PROJECT_DIR$/build/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CMakeCCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CMakeCXXCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CMakeSystem.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CompilerIdC/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/AR.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/AR.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/CameraManipulator.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/CameraManipulator.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Loader.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Loader.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Obj.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Obj.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/build.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/depend.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/flags.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/link.txt" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/progress.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Converter.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Converter.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Frame.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Frame.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/FrameDrawer.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/FrameDrawer.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/InitKeyFrame.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Initializer.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Initializer.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/KeyFrame.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/KeyFrame.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/KeyFrameDatabase.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/KeyFrameDatabase.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/LocalMapping.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/LocalMapping.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/LoopClosing.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/LoopClosing.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Map.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Map.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapDrawer.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapDrawer.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapPoint.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapPoint.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapSaveLoad.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/MapSaveLoad.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/ORBextractor.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/ORBextractor.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/ORBmatcher.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/ORBmatcher.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Optimizer.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Optimizer.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/PnPsolver.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/PnPsolver.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Sim3Solver.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Sim3Solver.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/System.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/System.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/SystemSetting.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Tracking.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Tracking.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Viewer.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/ORB_SLAM2.dir/src/Viewer.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/Vocabulary/bin_vocabulary.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/Vocabulary/bin_vocabulary.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/build.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/depend.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/flags.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/link.txt" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/progress.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/bin_vocabulary.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/feature_tests.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/feature_tests.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/feature_tests.cxx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/build.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/flags.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/link.txt" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/Examples/AR/src/mono_ar.cc.o" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/Examples/AR/src/mono_ar.cc.o" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/build.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/depend.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/flags.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/link.txt" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/progress.make" afterPath="$PROJECT_DIR$/build/CMakeFiles/mono_ar.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" />
+      <change beforePath="$PROJECT_DIR$/build/Makefile" afterPath="$PROJECT_DIR$/build/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/Makefile" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/DBoW2/cmake_install.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/DBoW2/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/C.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/build.make" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/cache.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/cache.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/estimate_propagator.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/estimate_propagator.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/factory.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_dijkstra.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_dijkstra.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph_action.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph_action.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/jacobian_workspace.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/jacobian_workspace.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/marginal_covariance_cholesky.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/marginal_covariance_cholesky.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/matrix_structure.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/matrix_structure.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimizable_graph.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimizable_graph.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_factory.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_levenberg.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_levenberg.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_with_hessian.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_with_hessian.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter_container.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter_container.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_factory.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_impl.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_impl.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/solver.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/solver.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/sparse_optimizer.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/sparse_optimizer.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/os_specific.c.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/os_specific.c.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/property.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/property.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/string_tools.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/string_tools.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/timeutil.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/timeutil.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_sba.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_sba.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_seven_dof_expmap.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_seven_dof_expmap.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_six_dof_expmap.cpp.o" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_six_dof_expmap.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/progress.make" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/CMakeFiles/g2o.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/Makefile" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/Makefile" />
+      <change beforePath="$PROJECT_DIR$/build/Thirdparty/g2o/cmake_install.cmake" afterPath="$PROJECT_DIR$/build/Thirdparty/g2o/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/build/cmake_install.cmake" afterPath="$PROJECT_DIR$/build/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_C.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/AR.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/CameraManipulator.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Loader.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/Examples/AR/src/Obj.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Converter.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Frame.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/FrameDrawer.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Initializer.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/KeyFrame.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/KeyFrameDatabase.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/LocalMapping.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/LoopClosing.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Map.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/MapDrawer.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/MapPoint.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/MapSaveLoad.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/ORBextractor.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/ORBmatcher.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Optimizer.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Pickhandle.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/PnPsolver.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Sim3Solver.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/System.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Tracking.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/src/Viewer.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/bin_vocabulary.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/Examples/AR/src/mono.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/CXX.includecache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/Examples/AR/src/mono_ar.cc.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/depend.internal" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mono_ar.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ORB_SLAM2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/ORB_SLAM2.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/BowVector.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FORB.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/FeatureVector.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DBoW2/ScoringObject.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Random.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DUtils/Timestamp.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/DBoW2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/DBoW2/DBoW2.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/C.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/batch_stats.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/cache.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/cache.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/estimate_propagator.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/estimate_propagator.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/factory.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_dijkstra.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_dijkstra.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph_action.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/hyper_graph_action.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/jacobian_workspace.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/jacobian_workspace.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/marginal_covariance_cholesky.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/marginal_covariance_cholesky.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/matrix_structure.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/matrix_structure.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimizable_graph.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimizable_graph.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_factory.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_levenberg.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_levenberg.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_with_hessian.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/optimization_algorithm_with_hessian.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter_container.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/parameter_container.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_factory.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_factory.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_impl.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/robust_kernel_impl.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/solver.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/solver.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/sparse_optimizer.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/core/sparse_optimizer.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/os_specific.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/os_specific.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/property.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/property.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/string_tools.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/string_tools.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/timeutil.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/stuff/timeutil.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_sba.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_sba.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_seven_dof_expmap.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_seven_dof_expmap.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_six_dof_expmap.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/g2o/types/types_six_dof_expmap.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/g2o.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Thirdparty/g2o/g2o.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CMakeSystem.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CompilerIdC/a.out" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CompilerIdC/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CompilerIdCXX/a.out" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/3.9.6/CompilerIdCXX/a.out" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/FindOpenMP/ompver_C.bin" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/FindOpenMP/ompver_C.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/FindOpenMP/ompver_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/FindOpenMP/ompver_CXX.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/ORB_SLAM2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/bin_vocabulary.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/clion-log.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/feature_tests.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/mono_ar.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/ORB_SLAM2.cbp" afterPath="$PROJECT_DIR$/cmake-build-release/ORB_SLAM2.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/CMakeFiles/DBoW2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/DBoW2.cbp" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/DBoW2.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/DBoW2/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/CMakeFiles/g2o.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/g2o.cbp" afterPath="$PROJECT_DIR$/cmake-build-release/Thirdparty/g2o/g2o.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-release/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-release/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/exe_loc.sh" afterPath="$PROJECT_DIR$/exe_loc.sh" />
+      <change beforePath="$PROJECT_DIR$/exe_map.sh" afterPath="$PROJECT_DIR$/exe_map.sh" />
+      <change beforePath="$PROJECT_DIR$/include/System.h" afterPath="$PROJECT_DIR$/include/System.h" />
+      <change beforePath="$PROJECT_DIR$/keyframe.log" afterPath="$PROJECT_DIR$/keyframe.log" />
+      <change beforePath="$PROJECT_DIR$/lib/libORB_SLAM2.so" afterPath="$PROJECT_DIR$/lib/libORB_SLAM2.so" />
+      <change beforePath="$PROJECT_DIR$/load.log" afterPath="$PROJECT_DIR$/load.log" />
+      <change beforePath="$PROJECT_DIR$/save.log" afterPath="$PROJECT_DIR$/save.log" />
+      <change beforePath="$PROJECT_DIR$/src/LocalMapping.cc" afterPath="$PROJECT_DIR$/src/LocalMapping.cc" />
+      <change beforePath="$PROJECT_DIR$/src/LoopClosing.cc" afterPath="$PROJECT_DIR$/src/LoopClosing.cc" />
+      <change beforePath="$PROJECT_DIR$/src/ORBextractor.cc" afterPath="$PROJECT_DIR$/src/ORBextractor.cc" />
+      <change beforePath="$PROJECT_DIR$/src/Optimizer.cc" afterPath="$PROJECT_DIR$/src/Optimizer.cc" />
+      <change beforePath="$PROJECT_DIR$/src/System.cc" afterPath="$PROJECT_DIR$/src/System.cc" />
+      <change beforePath="$PROJECT_DIR$/src/Tracking.cc" afterPath="$PROJECT_DIR$/src/Tracking.cc" />
+      <change beforePath="$PROJECT_DIR$/src/Viewer.cc" afterPath="$PROJECT_DIR$/src/Viewer.cc" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-release/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Tracking.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tracking.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3441">
+              <caret line="499" column="0" lean-forward="false" selection-start-line="499" selection-start-column="0" selection-end-line="499" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mono.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/AR/src/mono.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="251" column="22" lean-forward="false" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/AR/src/Loader.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mono_ar.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/AR/src/mono_ar.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="e#829#848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Viewer.cc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Viewer.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1190">
+              <caret line="1693" column="30" lean-forward="false" selection-start-line="1693" selection-start-column="19" selection-end-line="1693" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PnPsolver.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PnPsolver.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="801">
+              <caret line="203" column="31" lean-forward="false" selection-start-line="203" selection-start-column="31" selection-end-line="203" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sim3Solver.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sim3Solver.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="position_sensorhandler.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/MSF/include/msf_updates/position_sensor_handler/implementation/position_sensorhandler.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapSaveLoad.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MapSaveLoad.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="151" column="37" lean-forward="false" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pickhandle.cc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pickhandle.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mstate is :</find>
+      <find>mState</find>
+      <find>im.clone();</find>
+      <find>put_imu</find>
+      <find>enter if</find>
+      <find>Tcw</find>
+      <find>set</find>
+      <find>time</find>
+      <find>en</find>
+      <find>enter</find>
+      <find>mpORBbuffer</find>
+      <find>run</find>
+      <find>yaml</find>
+      <find>config</find>
+      <find>loading se</find>
+      <find>argv[2]</find>
+      <find>the conn</find>
+      <find>EtronDI_InitLocating Mode</find>
+      <find>mono_ar</find>
+      <find>position sensor is</find>
+      <find>track</find>
+      <find>the connection is null!!!</find>
+      <find>I/eSPDI_API</find>
+      <find>F1000</find>
+      <find>loadimage</find>
+      <find>capture</find>
+      <find>TrackMo</find>
+      <find>randi</find>
+      <find>detect plane</find>
+      <find>menuDetectPlane</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/lib</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/code_YANG/src/mono_ar.cc" />
+        <option value="$PROJECT_DIR$/Examples/AR/src/Loader.cc" />
+        <option value="$PROJECT_DIR$/include/LoopClosing.h" />
+        <option value="$PROJECT_DIR$/Examples/AR/setting/obj1.yaml" />
+        <option value="$PROJECT_DIR$/include/Map.h" />
+        <option value="$PROJECT_DIR$/src/Map.cc" />
+        <option value="$PROJECT_DIR$/include/KeyFrameDatabase.h" />
+        <option value="$USER_HOME$/ORB_SLAM2/src/MapPoint.cc" />
+        <option value="$USER_HOME$/ORB_SLAM2/src/KeyFrame.cc" />
+        <option value="$PROJECT_DIR$/src/KeyFrameDatabase.cc" />
+        <option value="$PROJECT_DIR$/Examples/AR/include/AR.h" />
+        <option value="$PROJECT_DIR$/include/Pickhandle.h" />
+        <option value="$PROJECT_DIR$/src/Pickhandle.cc" />
+        <option value="$PROJECT_DIR$/include/ORBextractor.h" />
+        <option value="$PROJECT_DIR$/src/ORBextractor1.cc" />
+        <option value="$PROJECT_DIR$/Examples/AR/include/Loader.h" />
+        <option value="$PROJECT_DIR$/include/Viewer.h" />
+        <option value="$PROJECT_DIR$/include/Optimizer.h" />
+        <option value="$PROJECT_DIR$/include/LocalMapping.h" />
+        <option value="$USER_HOME$/android/ar_slam_android_ndk/app/src/main/jni/slam/Tracking.cc" />
+        <option value="$PROJECT_DIR$/include/System.h" />
+        <option value="$PROJECT_DIR$/src/Optimizer.cc" />
+        <option value="$PROJECT_DIR$/include/SystemSetting.h" />
+        <option value="$PROJECT_DIR$/include/InitKeyFrame.h" />
+        <option value="$PROJECT_DIR$/src/SystemSetting.cc" />
+        <option value="$PROJECT_DIR$/src/InitKeyFrame.cc" />
+        <option value="$PROJECT_DIR$/src/KeyFrame.cc" />
+        <option value="$PROJECT_DIR$/src/MapPoint.cc" />
+        <option value="$PROJECT_DIR$/include/MapPoint.h" />
+        <option value="$PROJECT_DIR$/include/KeyFrame.h" />
+        <option value="$PROJECT_DIR$/include/MapSaveLoad.h" />
+        <option value="$PROJECT_DIR$/src/MapSaveLoad.cc" />
+        <option value="$PROJECT_DIR$/src/FrameDrawer.cc" />
+        <option value="$PROJECT_DIR$/Thirdparty/g2o/config.h.in" />
+        <option value="$PROJECT_DIR$/Examples/AR/src/AR.cc" />
+        <option value="$PROJECT_DIR$/src/System.cc" />
+        <option value="$PROJECT_DIR$/src/LoopClosing.cc" />
+        <option value="$PROJECT_DIR$/src/LocalMapping.cc" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/ORBextractor.cc" />
+        <option value="$PROJECT_DIR$/src/Tracking.cc" />
+        <option value="$PROJECT_DIR$/src/Viewer.cc" />
+        <option value="$PROJECT_DIR$/include/my_types.h" />
+        <option value="$PROJECT_DIR$/Examples/AR/src/mono.cc" />
+        <option value="$PROJECT_DIR$/Examples/AR/setting/Conf.yaml" />
+        <option value="$PROJECT_DIR$/Examples/AR/src/mono_ar.cc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="992" />
+    <option name="y" value="24" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ORB_SLAM2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="visiontech_slam1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ORB_SLAM2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="visiontech_slam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ORB_SLAM2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="visiontech_slam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="AR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ORB_SLAM2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="visiontech_slam1" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="AR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ORB_SLAM2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="visiontech_slam1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rls/ORB-YGZ-SLAM-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2" RUN_TARGET_NAME="mono_ar" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="DBoW2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="mono_ar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2" RUN_TARGET_NAME="mono_ar">
+      <envs />
+    </configuration>
+    <configuration name="ORB_SLAM2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="ORB_SLAM2" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="bin_vocabulary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="bin_vocabulary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2" RUN_TARGET_NAME="bin_vocabulary">
+      <envs />
+    </configuration>
+    <configuration name="g2o" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="g2o" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="mono" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./Vocabulary/ORBvoc.bin ./Examples/AR/setting/Conf.yaml 0 ./Examples/AR/map/map.bin" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="mono" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2" RUN_TARGET_NAME="mono">
+      <envs />
+    </configuration>
+    <configuration name="mono_ar" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./Vocabulary/ORBvoc.bin ./Examples/AR/setting/Conf.yaml 0 ./Examples/AR/map/map.bin" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2" TARGET_NAME="mono_ar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2" RUN_TARGET_NAME="mono_ar">
+      <envs />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DBoW2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ORB_SLAM2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.bin_vocabulary" />
+      <item index="4" class="java.lang.String" itemvalue="Application.g2o" />
+      <item index="5" class="java.lang.String" itemvalue="Application.mono" />
+      <item index="6" class="java.lang.String" itemvalue="Application.mono_ar" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7853068-66ae-482e-b38c-76501d9edf90" name="Default" comment="" />
+      <created>1531813182144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531813182144</updated>
+      <workItem from="1531813185974" duration="5908000" />
+      <workItem from="1531883379225" duration="7816000" />
+      <workItem from="1531900700324" duration="2360000" />
+      <workItem from="1531965220639" duration="4400000" />
+      <workItem from="1531991598538" duration="822000" />
+      <workItem from="1532066188292" duration="418000" />
+      <workItem from="1540541200748" duration="25000" />
+      <workItem from="1540541231229" duration="5325000" />
+      <workItem from="1540617986307" duration="598000" />
+      <workItem from="1540777786925" duration="261000" />
+      <workItem from="1540884230109" duration="7734000" />
+      <workItem from="1540950279965" duration="23225000" />
+      <workItem from="1542769028059" duration="6788000" />
+      <workItem from="1542866892449" duration="6611000" />
+      <workItem from="1542935204616" duration="8382000" />
+      <workItem from="1543196507041" duration="978000" />
+      <workItem from="1543283586784" duration="12545000" />
+      <workItem from="1543369299196" duration="14894000" />
+      <workItem from="1543454884982" duration="6418000" />
+      <workItem from="1543478043575" duration="599000" />
+      <workItem from="1543539795820" duration="636000" />
+      <workItem from="1543556470152" duration="1266000" />
+      <workItem from="1543801709967" duration="8594000" />
+      <workItem from="1543887795965" duration="4015000" />
+      <workItem from="1543910024976" duration="2065000" />
+      <workItem from="1543975015952" duration="14053000" />
+      <workItem from="1544060904370" duration="13937000" />
+      <workItem from="1544147835271" duration="8367000" />
+      <workItem from="1544493082716" duration="4586000" />
+      <workItem from="1546912702611" duration="2485000" />
+      <workItem from="1546932124686" duration="4388000" />
+      <workItem from="1546998874911" duration="15393000" />
+      <workItem from="1547025773460" duration="1098000" />
+      <workItem from="1547086261815" duration="1794000" />
+      <workItem from="1547172400699" duration="4012000" />
+      <workItem from="1547430803418" duration="3619000" />
+      <workItem from="1547448979446" duration="2384000" />
+      <workItem from="1547516979523" duration="7921000" />
+      <workItem from="1547603115743" duration="4213000" />
+      <workItem from="1547777730320" duration="1887000" />
+      <workItem from="1548037029639" duration="6909000" />
+      <workItem from="1548122898723" duration="5183000" />
+      <workItem from="1548220709358" duration="3626000" />
+      <workItem from="1550714087729" duration="1641000" />
+      <workItem from="1551061416306" duration="3771000" />
+      <workItem from="1551237460558" duration="599000" />
+      <workItem from="1551330921536" duration="348000" />
+      <workItem from="1551332004956" duration="1219000" />
+      <workItem from="1551660166120" duration="3006000" />
+      <workItem from="1551765712204" duration="3984000" />
+      <workItem from="1551834285553" duration="9193000" />
+      <workItem from="1552469532162" duration="889000" />
+      <workItem from="1552529295818" duration="6820000" />
+      <workItem from="1552549046870" duration="2871000" />
+      <workItem from="1552616136168" duration="597000" />
+      <workItem from="1552892839228" duration="2036000" />
+      <workItem from="1552902715090" duration="14000" />
+      <workItem from="1552902751451" duration="621000" />
+      <workItem from="1552966163316" duration="10399000" />
+      <workItem from="1553048675834" duration="13639000" />
+      <workItem from="1553219606702" duration="1068000" />
+      <workItem from="1553232086379" duration="1803000" />
+      <workItem from="1553497573790" duration="2618000" />
+      <workItem from="1553512768317" duration="87000" />
+      <workItem from="1553514276358" duration="477000" />
+      <workItem from="1553514776786" duration="333000" />
+      <workItem from="1553515122741" duration="17000" />
+      <workItem from="1553520450066" duration="162000" />
+      <workItem from="1553565278406" duration="7509000" />
+      <workItem from="1553678396918" duration="229000" />
+      <workItem from="1553691448936" duration="1423000" />
+      <workItem from="1553751748454" duration="1076000" />
+      <workItem from="1553772612488" duration="3532000" />
+      <workItem from="1553776242879" duration="66000" />
+      <workItem from="1553825222899" duration="3427000" />
+      <workItem from="1554083058913" duration="3454000" />
+      <workItem from="1554169509373" duration="5101000" />
+      <workItem from="1554708045044" duration="2740000" />
+      <workItem from="1554793756301" duration="6854000" />
+      <workItem from="1554810554635" duration="1654000" />
+      <workItem from="1554858855588" duration="5852000" />
+      <workItem from="1554893800251" duration="2754000" />
+      <workItem from="1554961873435" duration="240000" />
+      <workItem from="1554985658944" duration="524000" />
+      <workItem from="1554987005106" duration="538000" />
+      <workItem from="1555036695007" duration="330000" />
+      <workItem from="1555313274071" duration="1609000" />
+      <workItem from="1556257196489" duration="707000" />
+      <workItem from="1563866114392" duration="11158000" />
+      <workItem from="1649840116243" duration="3781000" />
+      <workItem from="1649927541007" duration="591000" />
+      <workItem from="1664705269065" duration="94000" />
+      <workItem from="1668848899052" duration="15000" />
+      <workItem from="1670327872330" duration="10656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="409747000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19224468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06889128" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13138686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39827773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28050053" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31584582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29122055" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33940044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18647765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/ORBextractor.cc</url>
+          <line>65</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/ORBmatcher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/PnPsolver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800">
+          <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SystemSetting.cc" />
+    <entry file="file://$PROJECT_DIR$/src/InitKeyFrame.cc" />
+    <entry file="file://$PROJECT_DIR$/include/InitKeyFrame.h" />
+    <entry file="file://$PROJECT_DIR$/include/SystemSetting.h" />
+    <entry file="file://$PROJECT_DIR$/include/MapSaveLoad.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="154" column="28" lean-forward="false" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapDrawer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-755">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3690">
+          <caret line="205" column="4" lean-forward="false" selection-start-line="205" selection-start-column="4" selection-end-line="205" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/features2d.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="352" column="36" lean-forward="true" selection-start-line="352" selection-start-column="36" selection-end-line="352" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrameDrawer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/config.h.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoopClosing.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="216" column="23" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/src/AR.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6624">
+          <caret line="368" column="5" lean-forward="false" selection-start-line="368" selection-start-column="5" selection-end-line="368" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/KeyFrame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3582">
+          <caret line="199" column="12" lean-forward="false" selection-start-line="199" selection-start-column="12" selection-end-line="199" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MapPoint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Initializer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapPoint.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="350" column="49" lean-forward="false" selection-start-line="350" selection-start-column="45" selection-end-line="350" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Viewer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Frame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="107" column="18" lean-forward="false" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ORBmatcher.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
+          <caret line="158" column="27" lean-forward="false" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="252" column="6" lean-forward="false" selection-start-line="252" selection-start-column="6" selection-end-line="252" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/imgcodecs/imgcodecs_c.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="57" column="4" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/3dParty/opencv-3.0.0/modules/core/src/matrix.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/LocalMapping.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Optimizer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9900">
+          <caret line="450" column="19" lean-forward="false" selection-start-line="450" selection-start-column="12" selection-end-line="450" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KeyFrame.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="92" lean-forward="false" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/System.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="24" lean-forward="false" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="70" column="16" lean-forward="false" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ORBextractor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frame.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5472">
+          <caret line="304" column="25" lean-forward="false" selection-start-line="304" selection-start-column="25" selection-end-line="304" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/System.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7182">
+          <caret line="399" column="13" lean-forward="false" selection-start-line="399" selection-start-column="13" selection-end-line="399" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="316" column="6" lean-forward="false" selection-start-line="316" selection-start-column="0" selection-end-line="316" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Tracking.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/my_types.h" />
+    <entry file="file://$PROJECT_DIR$/src/ORBextractor.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34704">
+          <caret line="1928" column="35" lean-forward="false" selection-start-line="1928" selection-start-column="35" selection-end-line="1928" selection-end-column="35" />
+          <folding>
+            <element signature="e#2556#2588#0" expanded="true" />
+            <element signature="e#92205#94495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/setting/Conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="156" column="17" lean-forward="false" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
+          <folding>
+            <marker date="1670328437369" expanded="true" signature="2136:2155" ph="0.00000000000000000" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pickhandle.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/MSF/include/msf_updates/position_sensor_handler/implementation/position_sensorhandler.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapSaveLoad.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="151" column="37" lean-forward="false" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tracking.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3441">
+          <caret line="499" column="0" lean-forward="false" selection-start-line="499" selection-start-column="0" selection-end-line="499" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/src/Loader.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/src/mono.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="251" column="22" lean-forward="false" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/src/lanshan.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/AR/src/mono_ar.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#829#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PnPsolver.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="203" column="31" lean-forward="false" selection-start-line="203" selection-start-column="31" selection-end-line="203" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sim3Solver.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Viewer.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <caret line="1693" column="30" lean-forward="false" selection-start-line="1693" selection-start-column="19" selection-end-line="1693" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

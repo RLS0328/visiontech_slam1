@@ -1,0 +1,3 @@
+include(https://raw.githubusercontent.com/ethz-asl/ethzasl_msf/master/TODO)
+
+transplant and test `pressure_sensor_handler` and `spherical_position_sensor`

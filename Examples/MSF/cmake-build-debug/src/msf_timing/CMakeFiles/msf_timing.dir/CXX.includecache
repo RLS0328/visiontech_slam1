@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/msf_timing/Timer.h
+algorithm
+-
+chrono
+-
+limits
+-
+map
+-
+string
+-
+vector
+-
+
+/home/yyh/ethzasl_msf_noros-no_ros/src/msf_timing/Timer.cc
+algorithm
+-
+ostream
+-
+sstream
+-
+stdio.h
+-
+string
+-
+math.h
+-
+msf_timing/Timer.h
+-
+

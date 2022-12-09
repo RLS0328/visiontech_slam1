@@ -1,0 +1,13 @@
+%YAML:1.0
+
+osg_file: "/home/wangchenyu/OpenSceneGraph-Data-3.0.0/cow.osg"
+
+px: 0.0
+py: 0.0
+pz: -0.10
+
+ax: 0.0
+ay: 0.0
+az: 0.0
+
+scale: 0.01

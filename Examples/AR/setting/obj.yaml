@@ -1,0 +1,9 @@
+%YAML:1.0
+obj_files:
+#   - "obj0.yaml"
+   - "obj1.yaml"
+#   - "obj2.yaml"
+#   - "obj3.yaml"
+#   - "obj4.yaml"
+pic_files:
+   - "pic1.yaml"
